@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>About me | Adarsh Kumar</title>
+    <link rel="stylesheet" href="./app.css">
+  </head>
+  <body>
+    <div class="fa1">
+      <p>My name is khan</p>
+      <p>And I am not a terrorist</p>
+    </div>
+    <div class="fa2">
+      <p>Ram ji ki chal dekho</p>
+      <p>Sunaa he teri ankhion me</p>
+    </div>
+
+  </body>
+</html>
